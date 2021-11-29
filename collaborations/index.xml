@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collaborations on Tanishka Mehta</title>
+    <link>https://tanishkamehta.github.io/researchWebsite/index.html/collaborations/</link>
+    <description>Recent content in Collaborations on Tanishka Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://tanishkamehta.github.io/researchWebsite/index.html/collaborations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting 1</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/index.html/collaborations/meeting1/</link>
+      <pubDate>Mon, 13 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/index.html/collaborations/meeting1/</guid>
+      <description>The first meeting took place with Partha Panda, Co-Founder &amp;amp; CEO of Cysiv. As a researcher working in the field of cryptography for over 25 years, he helped identify various limitations of classical cryptography methods.
+Key Takeaway: Although classical cryptography systems are extremely difficult to hack into currently, in the next 14 years, as computing power increases, it may become easier to hack into systems, thus decreasing the safety of the transferred information.</description>
+    </item>
+    
+  </channel>
+</rss>

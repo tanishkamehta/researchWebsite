@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  Method on Tanishka Mehta</title>
+    <link>https://tanishkamehta.github.io/researchWebsite/method/</link>
+    <description>Recent content in   Method on Tanishka Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://tanishkamehta.github.io/researchWebsite/method/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step 1: Polarization</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/method/step1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/method/step1/</guid>
+      <description>Alice will run the code written in Qiskit to randomly polarize a qubit, without knowing its state. To polarize a qubit, two Hadamard gates will be implemented to two qubits in the state |0&amp;gt;, which will produce the |0&amp;gt;, |1&amp;gt;, |+&amp;gt;, or |-&amp;gt; states randomly. Once the Hadamard gates are applied, the four states will have a 25% probability of being produced. Bob will use the same algorithm as Alice to randomly polarize his own qubit.</description>
+    </item>
+    
+    <item>
+      <title>Step 2: Transmission</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/method/step2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/method/step2/</guid>
+      <description>Once Alice and Bob each have two lists of 2048 randomly polarized qubits, they will transfer one list to the other person through the channel. Alice sends one of her lists to Bob and similarly, Bob will send one of his lists to Alice. This will ensure that both Alice and Bob have their own list, as well as the other person&amp;rsquo;s qubit list. By sending the qubits through the channel, rather than the encryption or decryption key, the security of communication is increased.</description>
+    </item>
+    
+    <item>
+      <title>Step 3: Comparison</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/method/step3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/method/step3/</guid>
+      <description>Once Alice and Bob each have their lists, they can compare the polarizations of the qubits to create the final encryption and decryption key. In the list, if the first qubits of both lists are identical, the final key receives a value of 1 for its first value; otherwise, it receives a value of 0. This is repeated 2048 times for each pair of qubits. However, the values cannot be compared to each other directly without collapsing into a bit state.</description>
+    </item>
+    
+    <item>
+      <title>Step 4: Encryption</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/method/step4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/method/step4/</guid>
+      <description>Once Alice and Bob each have their lists, they can compare the polarizations of the qubits to create the final encryption and decryption key. Using the key, Alice will encrypt her message and send it through the channel to Bob, who will use an identical key to decode the message. Since the qubit pairs compared by Alice and Bob were equivilant, the final keys are guaranteed to be identical. Thus, since only the qubit values are being transferred and they cannot be duplicated or intercepted without collapse, the cyrptosystem has increased security.</description>
+    </item>
+    
+  </channel>
+</rss>

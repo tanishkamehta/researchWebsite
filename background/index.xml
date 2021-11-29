@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  Background on Tanishka Mehta</title>
+    <link>https://tanishkamehta.github.io/researchWebsite/background/</link>
+    <description>Recent content in   Background on Tanishka Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tanishkamehta.github.io/researchWebsite/background/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Classical Encryption Methods</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/background/previous_classical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/background/previous_classical/</guid>
+      <description>The most popular classical cryptosystem, known as Rivest-Shamir-Adleman (RSA), uses asymmetric keys to encrypt and decrypt messages. The message is encoded using an encryption key, sent through a classical communication channel to the receiver, and decoded using a decryption key. Although RSA assumes the channel will be secure, hackers can bypass the security measures and listen to the channel to find the decryption key and decode the message. With classical computing, the presence of hackers is not found until months after the incident, making it futile to find the hacker as the information is already intercepted.</description>
+    </item>
+    
+    <item>
+      <title> History of Quantum Computing</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/background/history_qc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/background/history_qc/</guid>
+      <description>Over time, there have been many advancements to quantum technology. In 1981, Feynman proposed the framework for simulating the evolution of quantum systems, leading to the design of other quantum advancements. In 1994, Shor predicted that as quantum computers became more efficient, they would be able to factorize large prime numbers and break RSA. In 1998, the first quantum algorithm was run. In 2012, quantum transistors and processes for error correction were implemented.</description>
+    </item>
+    
+    <item>
+      <title>Current Quantum Encryption Methods</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/background/current_qc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/background/current_qc/</guid>
+      <description>As quantum power is increasing, quantum cryptography protocols are being created to increase the security and efficiency of cryptography. Two popular quantum cryptography methods are Quantum Key Distribution (QKD) and superdense coding.
+Quantum Key Distribution: QKD uses quantum mechanics to distribute a symmetric key. First, the sender (Alice) randomly selects a basis, or basic vector, to encode each qubit, the simplest unit of quantum computing. It can exist in two states at once, unlike classical bits that only have a value of either 1 or 0.</description>
+    </item>
+    
+  </channel>
+</rss>

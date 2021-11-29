@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progess Reports on Tanishka Mehta</title>
+    <link>https://tanishkamehta.github.io/researchWebsite/progress/</link>
+    <description>Recent content in Progess Reports on Tanishka Mehta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://tanishkamehta.github.io/researchWebsite/progress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#7: Quarter 2 Update - Researchers &amp; Articles</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress7/</link>
+      <pubDate>Tue, 23 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress7/</guid>
+      <description>To gain more insight and guidance on the project, researchers were also contacted. The link below contains information about the researchers that were contacted, as well as major details about each meeting.
+Researcher Contact Information
+Moreover, articles were also researched to gain more knowledge on the next step of the project: determining whether eavesdroppers are present in the system and are reading the transmitted information.
+ Article 1:
+Quantum Secret Sharing with Polarization-Entangled Photon Pairs</description>
+    </item>
+    
+    <item>
+      <title>#6: Quarter 2 Update - Normalization of Qubits</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress6/</link>
+      <pubDate>Mon, 22 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress6/</guid>
+      <description>After encryption was completed during Quarter 1, the next step was to determine whether the 2 qubits being compared were normalized, or equal. Since the qubit values cannot be compared directly, since they will collapse into bits and lose their quantum information, a normalization formula was used.
+The formula for determining if two qubits are normalized is seen below, where the numerator calculates the direction of the qubits and the denominator of the fraction in the formula calculates the magnitude of the vectors.</description>
+    </item>
+    
+    <item>
+      <title>#5: Quarter 1 Update - Encryption</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress5/</link>
+      <pubDate>Wed, 27 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress5/</guid>
+      <description>During Quarter 1, the first step of the method was coded through IBM Quantum. The website allows code to be run on quantum computers across the globe. The two sections of code allow for the random polarization of qubits.
+{ # Importing NumPy, which allows for the use of mathematical functions import numpy as np # Importing standard Qiskit libraries import qiskit as q from qiskit import QuantumCircuit, transpile, Aer, IBMQ from qiskit.</description>
+    </item>
+    
+    <item>
+      <title>#4: Boise University Summer Cybersecurity Course</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress4/</link>
+      <pubDate>Sun, 01 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress4/</guid>
+      <description>Another summer course completed was through Boise University and focused on classical crytpography. Through this course, I learned about the ethics of cybersecurity, password cracking, symmetric and asymmetric cryptography, domain name systems (DNS), data protection, key loggers, converting sites from HTTP to HTTPS, packet sniffers, session attacks, same origin policy, cross-site request forgery, and authentication.</description>
+    </item>
+    
+    <item>
+      <title>#3: IBM Year-Long Quantum Computing Course</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress3/</link>
+      <pubDate>Wed, 19 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress3/</guid>
+      <description>Through the online year-long course through IBM, taught by researchers from MIT, I was able to gain a deeper understanding of Quantum Computing; I learned about quantum circuits, Qiskit, Fourier Analyses, and various algorithms.
+Quantum Circuits
+Through the course, I learned how to compose circuits and apply gates to qubits. Through the IBM Quantum Circuit builder, I was able to view the qubit on the Bloch sphere and see the probability of each state occuring if the qubit were to collapse into a bit upon measurement.</description>
+    </item>
+    
+    <item>
+      <title>#2: MIT Beaver Works Year-Long Quantum Software Course</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress2/</link>
+      <pubDate>Wed, 31 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress2/</guid>
+      <description>I completed various courses through MIT Beaver Works. The main course I completed focused on Quantum Software. The background math portion of course covered complex numbers, matrices, vectors, bra-ket notation, and tensor notation. The classical computing section included digital information, endianness, digital logic, and computer architecture. The final portion was about software development and covered computer programming in C#, Statically typed languages, unit testing, and programming exercises.</description>
+    </item>
+    
+    <item>
+      <title>#1: The Coding School Summer Course</title>
+      <link>https://tanishkamehta.github.io/researchWebsite/progress/progress1/</link>
+      <pubDate>Tue, 01 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://tanishkamehta.github.io/researchWebsite/progress/progress1/</guid>
+      <description>Through the online summer course at The Coding School, I was able to gain some background knowledge on Quantum Computing. Through this course, the main topics I gained insight on that define quantum computing were superposition, entanglement, quantum gates, and the Double Slit Experiment.
+Superposition
+Bits are used in classical computing and can have a value of either 0 or 1, like an off and on switch. You can’t balance the switch to be in the middle because it always moves up or down to on or off; likewise, bits can only have one value at once.</description>
+    </item>
+    
+  </channel>
+</rss>
